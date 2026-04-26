@@ -40,7 +40,7 @@ export default function Social() {
             Connect
           </span>
           <h2 className="text-5xl md:text-7xl font-black text-white tracking-tight" style={{ fontFamily: "'Space Grotesk', sans-serif" }}>
-            Let's build something <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">extraordinary.</span>
+            Let&apos;s build something <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-emerald-400">extraordinary.</span>
           </h2>
         </motion.div>
 

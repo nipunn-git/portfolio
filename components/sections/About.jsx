@@ -85,7 +85,7 @@ export default function About() {
               className="text-6xl md:text-8xl font-black text-black leading-[0.9] tracking-tighter"
               style={{ fontFamily: "'Plus Jakarta Sans', sans-serif" }}
             >
-              Hi, I'm  Nipun,<br />
+              Hi, I&apos;m  Nipun,<br />
               <span className="text-black/30">Data Science Student.</span>
             </motion.h2>
 

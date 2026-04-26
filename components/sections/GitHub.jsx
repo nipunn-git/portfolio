@@ -137,7 +137,7 @@ export default function GitHub() {
                     <div className="w-2 h-2 rounded-full bg-blue-500 animate-pulse" />
                     <span className="text-[10px] font-bold text-white uppercase tracking-[0.4em]">Celestial_System_Sync</span>
                  </div>
-                 <div className="text-[8px] font-mono text-white/40 uppercase">Target: {card?.name} // Metrics: {card?.stargazers_count}</div>
+                 <div className="text-[8px] font-mono text-white/40 uppercase">Target: {card?.name} {`//`} Metrics: {card?.stargazers_count}</div>
               </div>
             </motion.div>
 
